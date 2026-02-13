@@ -58,7 +58,7 @@ st.title("✂️ GREGO BARBEARIA")
 
 aba1, aba2, aba3 = st.tabs(["📅 Agendar", "🕒 Ver Agenda", "✂️ Área do Barbeiro"])
 
-horarios_todos = ["09:00", "10:00", "11:00", "12:00", "13:00" "14:00", "15:00", "16:00", "17:00", "18:00", "19:00"]
+horarios_todos = ["09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00", "19:00"]
 
 with aba1:
     st.header("Sua Reserva")
